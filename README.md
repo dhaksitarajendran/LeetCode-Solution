@@ -13,11 +13,13 @@ My progress in programming
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0283-move-zeroes) |
+| [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0242-valid-anagram) |
+| [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
 | ------- |
@@ -64,6 +66,7 @@ My progress in programming
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
+| [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -82,4 +85,12 @@ My progress in programming
 | [0184-department-highest-salary](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0620-not-boring-movies) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
