@@ -79,6 +79,7 @@ My progress in programming
 | [0176-second-highest-salary](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
