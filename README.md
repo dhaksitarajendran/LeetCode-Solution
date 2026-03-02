@@ -10,6 +10,7 @@ My progress in programming
 | [0011-container-with-most-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@ My progress in programming
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -43,6 +45,7 @@ My progress in programming
 | [0011-container-with-most-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0344-reverse-string) |
@@ -98,4 +101,12 @@ My progress in programming
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
