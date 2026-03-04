@@ -30,6 +30,7 @@ My progress in programming
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ My progress in programming
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
