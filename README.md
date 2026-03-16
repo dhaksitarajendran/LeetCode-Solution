@@ -35,6 +35,7 @@ My progress in programming
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+| [0172-factorial-trailing-zeroes](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 ## Recursion
 |  |
 | ------- |
