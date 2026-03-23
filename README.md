@@ -12,6 +12,7 @@ My progress in programming
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
@@ -129,10 +130,15 @@ My progress in programming
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
