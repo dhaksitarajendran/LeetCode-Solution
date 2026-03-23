@@ -10,6 +10,7 @@ My progress in programming
 | [0011-container-with-most-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -127,6 +128,7 @@ My progress in programming
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
