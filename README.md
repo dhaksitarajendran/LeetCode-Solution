@@ -27,6 +27,7 @@ My progress in programming
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
@@ -70,6 +71,7 @@ My progress in programming
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0058-length-of-last-word) |
@@ -144,6 +146,7 @@ My progress in programming
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 ## Matrix
 |  |
