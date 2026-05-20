@@ -12,6 +12,7 @@ My progress in programming
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -43,6 +44,7 @@ My progress in programming
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 ## Recursion
 |  |
