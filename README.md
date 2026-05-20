@@ -44,6 +44,7 @@ My progress in programming
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 ## Recursion
