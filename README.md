@@ -23,6 +23,7 @@ My progress in programming
 | [0283-move-zeroes](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ My progress in programming
 | ------- |
 | [0242-valid-anagram](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Trie
 |  |
 | ------- |
@@ -100,6 +102,7 @@ My progress in programming
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String Matching
 |  |
 | ------- |
