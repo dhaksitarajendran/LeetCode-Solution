@@ -12,6 +12,7 @@ My progress in programming
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -60,6 +61,7 @@ My progress in programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -128,6 +130,7 @@ My progress in programming
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
