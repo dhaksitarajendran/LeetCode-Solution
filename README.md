@@ -18,6 +18,7 @@ My progress in programming
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@ My progress in programming
 | [0001-two-sum](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
@@ -85,6 +87,7 @@ My progress in programming
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
