@@ -25,6 +25,7 @@ My progress in programming
 | [0283-move-zeroes](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -86,6 +87,7 @@ My progress in programming
 | [0125-valid-palindrome](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0344-reverse-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
