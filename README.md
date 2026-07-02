@@ -40,6 +40,7 @@ My progress in programming
 | [0217-contains-duplicate](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
@@ -92,6 +93,7 @@ My progress in programming
 | [0125-valid-palindrome](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@ My progress in programming
 | [0217-contains-duplicate](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0389-find-the-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Trie
@@ -180,4 +183,5 @@ My progress in programming
 | [0136-single-number](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
