@@ -28,6 +28,7 @@ My progress in programming
 | [0283-move-zeroes](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1646-get-maximum-in-generated-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1646-get-maximum-in-generated-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
@@ -200,4 +201,8 @@ My progress in programming
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0100-same-tree) |
+## Simulation
+|  |
+| ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1646-get-maximum-in-generated-array) |
 <!---LeetCode Topics End-->
