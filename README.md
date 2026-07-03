@@ -184,4 +184,20 @@ My progress in programming
 | [0137-single-number-ii](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0389-find-the-difference) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
