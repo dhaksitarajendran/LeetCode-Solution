@@ -31,6 +31,7 @@ My progress in programming
 | [1646-get-maximum-in-generated-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1646-get-maximum-in-generated-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2367-number-of-arithmetic-triplets](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ My progress in programming
 | [0242-valid-anagram](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0389-find-the-difference) |
+| [2367-number-of-arithmetic-triplets](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [3719-longest-balanced-subarray-i](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
@@ -84,6 +86,7 @@ My progress in programming
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0344-reverse-string) |
+| [2367-number-of-arithmetic-triplets](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -205,4 +208,8 @@ My progress in programming
 |  |
 | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1646-get-maximum-in-generated-array) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
