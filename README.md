@@ -61,6 +61,7 @@ My progress in programming
 | [0066-plus-one](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -212,4 +213,8 @@ My progress in programming
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
