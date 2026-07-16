@@ -61,6 +61,7 @@ My progress in programming
 | [0066-plus-one](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0268-missing-number) |
+| [1025-divisor-game](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -74,6 +75,7 @@ My progress in programming
 | [0042-trapping-rain-water](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,4 +219,12 @@ My progress in programming
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
