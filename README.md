@@ -29,6 +29,7 @@ My progress in programming
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1646-get-maximum-in-generated-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1646-get-maximum-in-generated-array) |
+| [1929-concatenation-of-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2367-number-of-arithmetic-triplets](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/2367-number-of-arithmetic-triplets) |
@@ -211,6 +212,7 @@ My progress in programming
 |  |
 | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1646-get-maximum-in-generated-array) |
+| [1929-concatenation-of-array](https://github.com/dhaksitarajendran/LeetCode-Solution/tree/master/1929-concatenation-of-array) |
 ## Enumeration
 |  |
 | ------- |
